@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🪽 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### 📃 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="75" alt="HTML" title="HTML" />
@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect with Me
 
-<div align="center">
+
+<div align="left">
   <a href="https://www.linkedin.com/in/snehasish-ghosh-5a0a84390" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -65,6 +66,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 
 ### 🕹️ Contributions 
 
@@ -88,6 +90,33 @@ Here are some ideas to get you started:
 
 ---
 
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehasishghosh115-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasishghosh115-hub&layout=compact&theme=dracula" height="150" alt="Top Languages Graph" />
+</div> -->
+
+### ⚡ GitHub Analytics & Activity
+
+<div align="center">
+
+  <!-- 🌈 Profile Summary (Vibrant Pink Gradient) -->
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehasishghosh115-hub&theme=algolia" height="200" alt="GitHub Profile Summary" />
+
+
+  <br/>
+
+  <!-- 💜 Circle Type Stats (Different Themes) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehasishghosh115-hub&theme=github_dark" height="180" alt="Top Languages Circle Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehasishghosh115-hub&theme=tokyonight" height="180" alt="Most Commit Languages Circle Graph" />
+
+  <br/>
+
+  <!-- 🔵 Contribution Graph (Blue Neon Style) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehasishghosh115-hub&theme=react-dark&hide_border=true&area=true" height="250" alt="GitHub Activity Graph" />
+</div>
+
+
 <p align="left">
   <!-- Profile Views Badge -->
   <a href="https://github.com/snehasishghosh115-hub" target="_blank">
@@ -95,16 +124,18 @@ Here are some ideas to get you started:
   </a>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehasishghosh115-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasishghosh115-hub&layout=compact&theme=dracula" height="150" alt="Top Languages Graph" />
-</div>
-
 ---
-
-
-<h3 align="center">💡 Keep learning. Keep building. Keep evolving.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=💡+Keep+learning.+Keep+building.+Keep+evolving.;🌊+Flow+with+code,+adapt+with+creativity.;🚀+Dream+in+blue,+build+in+logic." alt="Motivational Typing Animation" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JwcWRnYWZrZmlxMmR2aHR4dWoyOGxpbXl3MXJpazlyYzh3OXZ5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HwBlFQZFcAoUcPHZdX/giphy.gif" width="140" alt="Developer coding animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2ZWl3emx2aG9pYWxqZWc4ZjR4cGZ6Zjltb3o2bjN3eGZyZXY2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="160" alt="Developer coding animation" />
 </p>
+
+
+
+
+
+
+
