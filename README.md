@@ -18,20 +18,15 @@ Here are some ideas to get you started:
 
 
 ###
-
-<h3 align="center">A Passionate Learner , exploring tech and creativity 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=A+Passionate+Learner+🚀+Exploring+Tech+and+Creativity" alt="Typing Glitch" />
+</p>
 
 ---
 
 ### 🪽 Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-</div>
+<p align="center"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="HTML" title="HTML" /> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="CSS" title="CSS" /> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="Python" title="Python" /> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" alt="JavaScript" title="JavaScript" /> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="MySQL" title="MySQL" /> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="GitHub" title="GitHub" /> </p>
 
 ---
 
