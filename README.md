@@ -14,19 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h1 align="center">Hey 👋 What's Up? I'm Snehasish Ghosh!</h1>
+<!-- <h1 align="center">Hey 👋 What's Up? I'm Snehasish Ghosh!</h1>-->
 
 
 ###
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=A+Passionate+Learner+🚀+Exploring+Tech+and+Creativity" alt="Typing Glitch" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Let's+Vibe!+Hey+It's+Snehasish+🔥" alt="Typing Glitch" />
 </p>
+
 
 ---
 
 ### 🪽 Skills
 
-<p align="center"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="HTML" title="HTML" /> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="CSS" title="CSS" /> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="Python" title="Python" /> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" alt="JavaScript" title="JavaScript" /> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="MySQL" title="MySQL" /> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="GitHub" title="GitHub" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="75" alt="HTML" title="HTML" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="75" alt="CSS" title="CSS" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="75" alt="Python" title="Python" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="75" alt="JavaScript" title="JavaScript" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="75" alt="MySQL" title="MySQL" />
+</p>
 
 ---
 
@@ -46,7 +53,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🕹️ Pacman Contribution Animation
+### 🕹️ Contributions 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph-dark.svg">
@@ -65,6 +72,11 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<p align="left">
+  <a href="https://github.com/snehasishghosh115-hub" target="_blank" title="👀 Profile Views: Snehasish Ghosh">
+    <img src="https://img.shields.io/badge/Profile%20Views-hover%20to%20see-blue?style=for-the-badge" alt="Profile views hidden" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snehasishghosh115-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats Graph" />
@@ -73,5 +85,17 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! Have a great day 😊 ✨</h3> 
+<h3 align="center">
+  🌟 <span style="background: linear-gradient(90deg,#00C9FF,#92FE9D);-webkit-background-clip:text;color:transparent;">
+  Designed & Built by Snehasish Ghosh 💫
+  </span> 🌟
+</h3>
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br>
+  © 2025 Snehasish Ghosh
+</p>
+
+
+
 
