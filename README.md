@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">A Passionate Learner from Kolkata, exploring tech and creativity 🚀</h3>
+<h3 align="center">A Passionate Learner , exploring tech and creativity 🚀</h3>
 
 ---
 
