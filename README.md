@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey 👋 What's Up? I'm Snehasish Ghosh!</h1>
+ <h1 align="center">Hey 👋 What's Up? I'm Snehasish Ghosh!</h1>
 
 
 ###
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧠 Skills
+### 🪽 Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
@@ -54,10 +54,11 @@ Here are some ideas to get you started:
 ### 🕹️ Pacman Contribution Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ---
 
@@ -77,5 +78,5 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! Have a great day 😊 ✨</h3>
+<h3 align="center">✨ Thanks for visiting! Have a great day 😊 ✨</h3> 
 
