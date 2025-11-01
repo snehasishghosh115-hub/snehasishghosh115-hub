@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🪽 Skills
+### 🪽 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="75" alt="HTML" title="HTML" />
@@ -34,6 +34,19 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="75" alt="JavaScript" title="JavaScript" />
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="75" alt="MySQL" title="MySQL" />
 </p>
+
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
 
 ---
 
@@ -55,11 +68,13 @@ Here are some ideas to get you started:
 
 ### 🕹️ Contributions 
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 ---
@@ -72,11 +87,13 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 <p align="left">
-  <a href="https://github.com/snehasishghosh115-hub" target="_blank" title="👀 Profile Views: Snehasish Ghosh">
-    <img src="https://img.shields.io/badge/Profile%20Views-hover%20to%20see-blue?style=for-the-badge" alt="Profile views hidden" />
+  <!-- Profile Views Badge -->
+  <a href="https://github.com/snehasishghosh115-hub" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=snehasishghosh115-hub&style=for-the-badge&color=brightgreen" alt="Profile views counter" />
   </a>
-</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snehasishghosh115-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats Graph" />
@@ -85,17 +102,9 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">
-  🌟 <span style="background: linear-gradient(90deg,#00C9FF,#92FE9D);-webkit-background-clip:text;color:transparent;">
-  Designed & Built by Snehasish Ghosh 💫
-  </span> 🌟
-</h3>
+
+<h3 align="center">💡 Keep learning. Keep building. Keep evolving.</h3>
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br>
-  © 2025 Snehasish Ghosh
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JwcWRnYWZrZmlxMmR2aHR4dWoyOGxpbXl3MXJpazlyYzh3OXZ5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HwBlFQZFcAoUcPHZdX/giphy.gif" width="140" alt="Developer coding animation" />
 </p>
-
-
-
-
