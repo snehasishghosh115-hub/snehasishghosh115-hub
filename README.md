@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ### 📃 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
+<br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="75" alt="HTML" title="HTML" />
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="75" alt="CSS" title="CSS" />
@@ -33,6 +35,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="75" alt="JavaScript" title="JavaScript" />
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="75" alt="MySQL" title="MySQL" />
 </p>
+
+<br>
 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -51,6 +55,7 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect with Me
 
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/snehasish-ghosh-5a0a84390" target="_blank">
@@ -64,11 +69,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+
 ---
 
 
 ### 🕹️ Contributions 
 
+
+<br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph-dark.svg">
@@ -81,6 +90,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=snehasishghosh115-hub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
@@ -96,6 +108,8 @@ Here are some ideas to get you started:
 </div> -->
 
 ### ⚡ GitHub Analytics & Activity
+
+<br>
 
 <div align="center">
 
