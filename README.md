@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+👋+What's+Up?;I'm+Snehasish+Ghosh!;A+Passionate+Learner+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey 👋 What's Up? I'm Snehasish Ghosh!</h1>
 
 
 ###
