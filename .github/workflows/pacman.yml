@@ -1,0 +1,29 @@
+name: Generate Pacman Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once every day at midnight
+  workflow_dispatch:     # Allows you to run it manually
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Contribution Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: snehasishghosh115-hub
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
