@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 
----
+
 
 ### 📃 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-
-
 ---
+
+
 
 ### 🌐 Connect with Me
 
