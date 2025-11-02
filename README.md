@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **snehasishghosh115-hub/snehasishghosh115-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,45 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Let's+Vibe!+Hey+It's+Snehasish+🔥" alt="Typing Glitch" />
 </p>
+
+<h1 align="center">👋 Hi there, I'm <span style="color:#00b8d9;">Snehasish Ghosh</span></h1>
+
+<p align="center">
+  <em>💻 B.Tech student in CSE (AI & ML) at NST ADYPU, India 🇮🇳</em><br>
+  <em>✨ Turning ideas into code, and code into creativity ✨</em>
+</p>
+
+
+<p align="center">
+  I'm passionate about blending technology and creativity to build innovative things that make an impact.  
+  My journey is all about learning, experimenting, and pushing boundaries with each project I take on.
+</p>
+
+---
+
+<h3 align="left">🚀 <span style="font-family: 'Fira Code', monospace; color:#00b8d9;">Currently</span></h3>
+
+<p align="left" style="font-size:14px; font-family:'JetBrains Mono', monospace; color:#d1d5db;">
+🧩 Diving deeper into the world of <b>AI and Full-Stack Development</b><br>
+📝 <b>Learning multiple programming languages</b>, each with a different flavor and perspective —  
+</p>
+
+<ul style="font-size:13px; font-family:'JetBrains Mono', monospace; color:#a5b4fc;">
+  <li> <b>Python</b> — for logic and automation</li>
+  <li> <b>JavaScript</b> — for web magic</li>
+  <!-- <li>⚙️ <b>C/C++</b> — for performance and precision</li>
+  <li>☕ <b>Java</b> — for structure and scalability</li> -->
+  <li> <b>HTML</b> — for structure and semantics</li>
+  <li> <b>CSS</b> — for styling and creativity</li>
+</ul>
+
+<hr>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00B8D9&center=true&vCenter=true&width=800&lines=Exploring+Tech+🌐+and+Creativity+🎨;Learning+New+Languages+One+Line+at+a+Time+💡" alt="Typing animation" />
+</p>
+
 
 
 
@@ -125,15 +164,15 @@ Here are some ideas to get you started:
   <br/>
 
   <!-- 🔵 Contribution Graph (Blue Neon Style) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehasishghosh115-hub&theme=react-dark&hide_border=true&area=true" height="250" alt="GitHub Activity Graph" />
-</div>
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehasishghosh115-hub&theme=react-dark&hide_border=true&area=true" height="250" alt="GitHub Activity Graph" />
+</div>-->
 
 
-<p align="left">
+ <p align="left">
   <!-- Profile Views Badge -->
-  <a href="https://github.com/snehasishghosh115-hub" target="_blank">
+ <a href="https://github.com/snehasishghosh115-hub" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=snehasishghosh115-hub&style=for-the-badge&color=brightgreen" alt="Profile views counter" />
-  </a>
+  </a> 
 
 
 ---
