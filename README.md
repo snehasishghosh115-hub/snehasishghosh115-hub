@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 
 
 <br>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishghosh115-hub/snehasishghosh115-hub/output/pacman-contribution-graph-dark.svg">
