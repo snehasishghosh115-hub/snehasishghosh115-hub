@@ -184,6 +184,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2ZWl3emx2aG9pYWxqZWc4ZjR4cGZ6Zjltb3o2bjN3eGZyZXY2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="160" alt="Developer coding animation" />
 </p>
 
+[![An image of @snehasishghosh115hub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehasishghosh115hub)](https://holopin.io/@snehasishghosh115hub)
 
 
 
