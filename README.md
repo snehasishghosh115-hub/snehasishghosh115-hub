@@ -48,8 +48,8 @@ Here are some ideas to get you started:
   <li> <b>JavaScript</b> — for web magic</li>
   <!-- <li>⚙️ <b>C/C++</b> — for performance and precision</li>
   <li>☕ <b>Java</b> — for structure and scalability</li> -->
-  <!-- <!-- <li> <b>HTML</b> — for structure and semantics</li> -->
-  <li> <b>CSS</b> — for styling and creativity</li> -->
+  <li> <b>HTML</b> — for structure and semantics</li>
+  <li> <b>CSS</b> — for styling and creativity</li>
 </ul>
 
 <hr>
