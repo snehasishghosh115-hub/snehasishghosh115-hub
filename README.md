@@ -180,9 +180,9 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=💡+Keep+learning.+Keep+building.+Keep+evolving.;🌊+Flow+with+code,+adapt+with+creativity.;🚀+Dream+in+blue,+build+in+logic." alt="Motivational Typing Animation" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2ZWl3emx2aG9pYWxqZWc4ZjR4cGZ6Zjltb3o2bjN3eGZyZXY2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="160" alt="Developer coding animation" />
-</p>
+</p> -->
 
 [![An image of @snehasishghosh115hub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehasishghosh115hub)](https://holopin.io/@snehasishghosh115hub)
 
